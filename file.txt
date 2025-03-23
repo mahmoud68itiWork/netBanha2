@@ -4,3 +4,4 @@ third line
 forth line
 hello from line 5
 from line 6
+line 7
