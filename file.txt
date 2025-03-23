@@ -2,3 +2,5 @@ first line
 second line
 third line
 forth line
+hello from line 5
+from line 6
